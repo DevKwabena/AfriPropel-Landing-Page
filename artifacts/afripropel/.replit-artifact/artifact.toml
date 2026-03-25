@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "AfriPropel — Property Intelligence"
+version = "1.0.0"
+id = "artifacts/afripropel"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 19872
+
+[services.development]
+run = "pnpm --filter @workspace/afripropel run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/afripropel", "run", "build" ]
+publicDir = "artifacts/afripropel/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "19872"
+BASE_PATH = "/"

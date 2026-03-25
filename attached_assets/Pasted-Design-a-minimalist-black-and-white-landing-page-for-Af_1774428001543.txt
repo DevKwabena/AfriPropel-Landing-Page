@@ -1,0 +1,138 @@
+Design a minimalist black and white landing page for AfriPropel — Africa’s AI-Powered Property Intelligence & Land Security Infrastructure for Ghana.
+Visual Reference: Match the Sardar Capital aesthetic exactly — white background, black ink only, architectural pencil-sketch illustrations, no color, no gradients, no shadows except subtle ones.
+
+TYPOGRAPHY
+	∙	Logo: Small-caps serif — AFRIPROPEL / PROPERTY INTELLIGENCE GRID · GHANA
+	∙	Headlines: Large serif (Playfair Display or similar) — editorial weight
+	∙	Labels & nav: Tiny monospace ALLCAPS with wide letter-spacing
+	∙	Body: Clean light sans-serif
+
+NAVIGATION (thin top bar, 1px bottom border)
+
+AFRIPROPEL                Solutions   Platform   Company   Pricing   Contact        [Get Early Access →]
+PROPERTY INTELLIGENCE · GHANA
+
+
+HERO SECTION
+	∙	Left-aligned text block, right side: large architectural pencil-sketch illustration of Accra skyline with construction cranes and land survey grid overlays (same style as Sardar Capital’s building sketch)
+	∙	Overline: AI · BLOCKCHAIN · GEOSPATIAL · GHANA
+	∙	Headline (large serif, 64px):
+The verified, intelligent,
+and secure future of
+real estate in Africa.
+	∙	Sub: Ghana's first AI property graph. Blockchain land verification. Geospatial intelligence.
+	∙	CTA buttons: [Request Demo] (black filled) [View Platform →] (outlined)
+	∙	Below hero: scrolling logo strip — Lands Commission · Ghana Card · MoMo · Polygon · PostGIS · Neo4j
+
+SECTION 1 — THE PROBLEM (full-width, grid-paper background texture)
+
+THE PROBLEM
+Ghana loses billions annually to land fraud,
+duplicate titles, and rental disputes.
+
+
+4-column stat grid (large monospace numbers, serif labels):
+
+$6B+          47%           3.2M          80%
+Real estate   Land disputes  Unverified    Paper-based
+market size   unresolved     parcels       transactions
+
+
+SECTION 2 — SOLUTIONS (alternating left/right layout)
+Six solution blocks, each with:
+	∙	Small monospace number 01 — 06
+	∙	Serif headline
+	∙	Short paragraph
+	∙	Thin 1px border card
+
+01 — AI PROPERTY GRAPH
+The Intelligence Layer
+Ghana's first living knowledge graph linking every parcel,
+owner, transaction, dispute, and valuation. Fraud rings
+detected automatically.
+
+02 — BLOCKCHAIN VERIFICATION
+The Trust Layer
+Immutable land certificates. Smart contract escrow.
+Timestamped indentures. Complements the Lands Commission.
+
+03 — RENTING OS
+The Rental Layer
+AI tenant scoring. Rent default prediction. MoMo-integrated
+payments. The credit score for Ghana's renters.
+
+04 — GEOSPATIAL ENGINE
+The Map Layer
+Satellite + drone boundary detection. Encroachment alerts.
+Flood risk. Price heatmaps. Real-time.
+
+05 — DEVELOPER OS
+The Build Layer
+AI cost estimation from drawings. Drone construction monitoring.
+Off-plan buyer scoring. Blockchain payment milestones.
+
+06 — AI ANALYST COPILOT
+The Intelligence Layer
+Ask: "Is this land safe to buy?" "Best ROI under $80k?"
+"Analyze this indenture." Ghana-specific answers, instantly.
+
+
+SECTION 3 — PLATFORM PREVIEW (dark section — black background, white text, only section with inverted colors)
+Headline (white serif):
+An inside look at
+how we protect land.
+Show a wireframe/sketch-style dashboard illustration — map with parcel markers, data panels, signal feeds — all in white line-art on black.
+
+SECTION 4 — WHO IT’S FOR
+Horizontal scrolling cards, each 1px bordered:
+
+Government & Lands Commission
+Banks & Mortgage Providers
+Real Estate Developers
+Agencies & Agents
+Landlords
+Investors
+Legal Professionals
+
+
+SECTION 5 — MONETIZATION / PRICING
+
+PLANS DESIGNED FOR EVERY STAKEHOLDER
+
+Starter          Professional      Enterprise
+Landlords &      Agencies &        Banks, Developers
+Agents           Developers        & Government
+
+[View Pricing]
+
+
+SECTION 6 — TRUST SIGNAL STRIP
+
+142,867          38               $6B+             94
+Verified titles  Fraud alerts     Market monitored  Encroachment
+in system        flagged          daily             events tracked
+
+
+SECTION 7 — CTA FOOTER HERO
+Same Sardar Capital treatment — large serif headline, Accra cityscape pencil sketch across the full width:
+Build Ghana’s property
+future starting today.
+[Request Early Access →]
+
+FOOTER (1px top border, monospace, compact)
+
+AFRIPROPEL                    Solutions    Platform    Company      info@afripropel.com
+PROPERTY INTELLIGENCE · GHANA  Pricing      API Docs    Careers      Accra, Ghana
+
+© 2025 AfriPropel Ltd. · Privacy · Terms · LinkedIn · Twitter
+
+
+DESIGN RULES (strict)
+	∙	Background: #FFFFFF only
+	∙	Text/borders: #000000 only
+	∙	Grays: #333, #777, #EBEBEB for hierarchy only
+	∙	No color, no gradients, no box shadows (except 1px borders)
+	∙	Dot-grid or graph-paper texture on alternating sections
+	∙	All illustrations: architectural pencil-sketch line-art style (black ink on white)
+	∙	Spacing: generous — 120px+ section padding
+	∙	Grid: 12-column, max-width 1280px, centered

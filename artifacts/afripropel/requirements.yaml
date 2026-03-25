@@ -1,0 +1,10 @@
+packages:
+  "framer-motion": "For smooth, high-end editorial scroll animations and reveals"
+  "lucide-react": "For minimal line-art icons"
+  "clsx": "Utility for constructing className strings conditionally"
+  "tailwind-merge": "Utility for merging tailwind classes safely"
+
+notes:
+  - This is a static landing page frontend designed with a strict black-and-white architectural aesthetic.
+  - All visual assets are generated via custom inline SVGs mimicking pencil sketches and blueprints.
+  - No backend integration is strictly required for this purely presentational landing page, but button handlers are wired up.
