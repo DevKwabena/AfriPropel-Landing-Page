@@ -64,8 +64,12 @@ export default function Home() {
             </div>
           </div>
 
-          <div className="lg:col-span-6 h-[500px] w-full relative border border-border bg-background">
-            <SkylineBlueprint className="absolute inset-0 w-full h-full text-foreground" />
+          <div className="lg:col-span-6 h-[500px] w-full relative border border-border bg-background overflow-hidden">
+            <img
+              src="/hero-drawing.png"
+              alt="Architectural drawing"
+              className="absolute inset-0 w-full h-full object-cover object-center"
+            />
             <div className="absolute bottom-4 right-4 bg-background border border-border px-3 py-2">
               <span className="font-mono text-[10px] uppercase tracking-widest">FIG 1. ACCRA SECTOR GRID</span>
             </div>
