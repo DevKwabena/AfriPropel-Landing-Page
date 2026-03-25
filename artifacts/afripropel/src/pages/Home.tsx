@@ -16,14 +16,9 @@ export default function Home() {
       {/* NAVIGATION */}
       <nav className="sticky top-0 z-50 w-full bg-background/90 backdrop-blur-md border-b border-border">
         <div className="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
-          <div className="flex flex-col">
-            <Link href="/" className="font-serif font-semibold tracking-wide text-2xl leading-none">
-              AFRIPROPEL
-            </Link>
-            <span className="font-mono text-[9px] tracking-[0.2em] uppercase mt-1">
-              Property Intelligence · Ghana
-            </span>
-          </div>
+          <Link href="/">
+            <img src="/afripropel-logo.png" alt="AfriPropel" style={{ height: '180px', marginTop: '-50px', marginBottom: '-50px' }} />
+          </Link>
           
           <div className="hidden md:flex items-center gap-8 font-mono text-xs tracking-widest uppercase">
             <a href="#solutions" className="hover:underline underline-offset-4 decoration-1">Solutions</a>
